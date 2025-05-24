@@ -1,14 +1,49 @@
 # 👋 Hi, I'm Ali!
-- 🎓 Google Certified Data Analyst
-- 📊 Skilled in Python, SQL, Excel, Power Bi
-- 💼 Currently working on EDA, regression projects
-- 🧠 Always learning something new!
+
+🎓 Certified Business Analyst  
+📍 Based in Pakistan | 💼 Aspiring Business Intelligence Professional  
+💬 Passionate about solving business problems using data-driven insights.
+
+---
+
+## 💼 What I’m Working On
+
+- Business Case Studies & Dashboards  
+- Analyzing Business Processes & KPIs  
+- Creating Reports & Visuals in Power BI and Excel  
+- Gathering & Interpreting Business Requirements  
+
+---
 
 ## 🧰 Tools & Skills
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (MySQL, PostgreSQL)
-- Excel & Google Sheets
-- Power BI
 
-## 📂 My Projects
-Check out my repos below ⬇️
+**Analysis & Reporting:**  
+- Microsoft Excel & Google Sheets  
+- Power BI  
+- SQL (MySQL, PostgreSQL)
+
+**Other Skills:**  
+- Business Process Analysis  
+- Requirement Gathering  
+- Dashboard & Report Design  
+- Data-Driven Decision Making  
+- Stakeholder Communication  
+
+---
+
+## 📂 Featured Projects
+
+🚀 Explore my repositories for projects that show:  
+- 📋 Business use case analysis  
+- 📈 Interactive dashboards in Power BI  
+- 📊 Reporting automation using Excel  
+- 🗂️ SQL for business reporting and KPIs
+
+---
+
+## 🌱 Currently Learning
+
+- DAX for Power BI  
+- Business Process Mapping  
+- Preparing for PL-300: Microsoft Power BI Data Analyst Certification  
+- Improving Presentation & Storytelling Skills  
